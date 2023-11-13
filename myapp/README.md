@@ -1,4 +1,4 @@
-## Link: [https://khouloud711.github.io/tic-tac-toe/](https://khouloud711.github.io/tic-tac-toe/)
+## Link: [https://KhouloudBejaoui.github.io/tic-tac-toe/](https://KhouloudBejaoui.github.io/tic-tac-toe/)
 
 # Myapp
 
